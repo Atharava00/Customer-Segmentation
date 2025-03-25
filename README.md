@@ -1,0 +1,1 @@
+🚀 Excited to share my Customer Segmentation project! Used K-Means clustering to analyze customer behavior for better marketing strategies. Gained hands-on experience in EDA, clustering, and business insights. 
